@@ -85,3 +85,12 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 - [ ] Spam Message Detector
 - [ ] Credit Card Fraud Detection
 - [ ] Stock Price Forecasting
+
+---
+
+### 🧠 8. Deep Learning (Intro)
+
+- [ ] Introduction to Neural Networks
+- [ ] Perceptron and Activation Functions
+- [ ] Backpropagation and Gradient Descent
+- [ ] ANN with TensorFlow/Keras
