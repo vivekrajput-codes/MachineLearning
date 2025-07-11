@@ -1,4 +1,4 @@
-# 📘 Machine Learning Roadmap – Vivek Singh
+# 📘 Machine Learning Roadmap – Vivek Rajput
 
 Welcome to my **Machine Learning** project repository!  
 This repo includes well-organized notes, notebooks, and mini-projects on both theoretical and practical aspects of ML, covering beginner to advanced topics – broken down micro-topic-wise.
