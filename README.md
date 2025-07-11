@@ -8,6 +8,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ## 📌 Topics Covered
 
 ### 🟠 1. Introduction to Machine Learning
+
 - [ ] What is Machine Learning?
 - [ ] Types of Machine Learning (Supervised, Unsupervised, Reinforcement)
 - [ ] ML vs AI vs Deep Learning
@@ -16,6 +17,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ---
 
 ### 🟢 2. Python for ML
+
 - [ ] Python Basics Refresher
 - [ ] NumPy for Numerical Computation
 - [ ] Pandas for Data Handling
@@ -26,6 +28,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ### 🔵 3. Supervised Learning
 
 #### 📉 Regression
+
 - [ ] Simple Linear Regression
 - [ ] Multiple Linear Regression
 - [ ] Polynomial Regression
@@ -35,6 +38,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 - [ ] Evaluation Metrics (MAE, MSE, RMSE, R² Score)
 
 #### 🧠 Classification
+
 - [ ] Logistic Regression
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Support Vector Machine (SVM)
@@ -47,6 +51,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ---
 
 ### 🟣 4. Unsupervised Learning
+
 - [ ] Clustering Basics
 - [ ] K-Means Clustering
 - [ ] Hierarchical Clustering
@@ -56,6 +61,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ---
 
 ### 🟤 5. Model Selection & Tuning
+
 - [ ] Train/Test Split
 - [ ] Cross-Validation (K-Fold, Stratified)
 - [ ] Grid Search & Random Search
@@ -64,6 +70,7 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ---
 
 ### 🟡 6. Feature Engineering
+
 - [ ] Handling Missing Values
 - [ ] Encoding Categorical Data
 - [ ] Feature Scaling (Standardization, Normalization)
@@ -72,16 +79,9 @@ This repo includes well-organized notes, notebooks, and mini-projects on both th
 ---
 
 ### ⚪ 7. Real Projects (Coming Soon)
+
 - [ ] House Price Prediction
 - [ ] Iris Classification
 - [ ] Spam Message Detector
 - [ ] Credit Card Fraud Detection
 - [ ] Stock Price Forecasting
-
----
-
-### 🧠 8. Deep Learning (Intro)
-- [ ] Introduction to Neural Networks
-- [ ] Perceptron and Activation Functions
-- [ ] Backpropagation and Gradient Descent
-- [ ] ANN with TensorFlow/Keras
